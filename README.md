@@ -1,4 +1,4 @@
-# pythonProject
+# Movie Ranking Recap: Intro to Python Project
 
 Working on two different csv files. Goal is to see what inference and conclusions we come up with based on the data. Different platforms were used: Spyder 6, and Jupyter.
 
